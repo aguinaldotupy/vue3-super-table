@@ -1,0 +1,28 @@
+{
+  "name": "vue3-super-table",
+  "description": "Table component for vue.js 3",
+  "main": [
+    "./dist/vue3-super-table.min.js",
+    "./dist/vue3-super-table.min.css"
+  ],
+  "authors": [
+    "Aguinaldo Tupy <aguinaldo.tupy@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "vuejs",
+    "table",
+    "ui-table",
+    "laravel",
+    "tailwind"
+  ],
+  "homepage": "https://github.com/aguinaldotupy/vue3-super-table",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

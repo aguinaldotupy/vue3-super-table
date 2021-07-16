@@ -1,0 +1,14 @@
+{
+  "name": "vue3-super-table",
+  "version": "1.0.0",
+  "description": "Vue 3 Laravel table, Tailwind table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue3", "table", "composition api", "laravel"
+  ],
+  "author": "Aguinaldo Tupy <aguinaldo.tupy@gmail.com>",
+  "license": "MIT"
+}
